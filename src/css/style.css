@@ -1,0 +1,24 @@
+
+
+h1:first-of-type {
+    text-align: center;
+}
+
+#activeBusinessesContainer {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.business {
+    border-bottom: 1px solid grey;
+}
+
+
+#nyBusinesses-Container {
+    margin-top: 10%;
+}
+.container{
+    margin-bottom: 10%;
+}
